@@ -1,3 +1,6 @@
+# THIS REPO IS A WORKING COPY OF THE REPO: https://github.com/chenwydj/learning-to-learn-by-gradient-descent-by-gradient-descent 
+- We fix the metamodule.py 
+- We add two different datasets: CIFAR10 and CIFAR100
 # Learning to learn by gradient descent by gradient descent [[PDF](https://arxiv.org/pdf/1606.04474v2.pdf)]
 
 This is a Pytorch version of the LSTM-based meta optimizer.
